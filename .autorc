@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ramusw",
+  "repo": "container-xmxpgkc",
+  "name": "ramusw",
+  "email": "ramusw427@gmail.com",
+}
